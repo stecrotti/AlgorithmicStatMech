@@ -1,6 +1,6 @@
 # AlgorithmicStatMech
 
-Tentative program:
+Tentative programme:
 
 ## 1) Dynamic programming
   [Problem sheet](1_dynamic_programming.pdf)
@@ -15,8 +15,19 @@ Tentative program:
   - Dual numbers as a good example of Julia's type dispatch system
   - Hints to reverse-mode AD. Example: backpropagation in neural nets
   - Bonus: reverse-mode AD as message-passing on the computation graph
+    
+Friendly references:
+- https://youtu.be/vAp6nUMrKYg?si=ReQ7qgKugXSZ66Al
+- https://book.sciml.ai/notes/08-Forward-Mode_Automatic_Differentiation_(AD)_via_High_Dimensional_Algebras/
+- https://www.microsoft.com/en-us/research/video/from-automatic-differentiation-to-message-passing/
 
-Two options for the third one:
+References:
+- [A Hitchhiker's Guide to Automatic Differentiation](https://arxiv.org/abs/1411.0583)
+- [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
+- [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587)
+
+
+Two options for the third session:
 
   ## 3a) Tensor Trains (aka Matrix Product States): a tool for function approximation
   - Can one improve on mean-field ansatzes while keeping the computational advantages?
@@ -26,7 +37,24 @@ Two options for the third one:
   - SVD-based truncations
   - Bonus: learning of Tensor Train distributions
 
+Friendly references:
+- https://www.youtube.com/watch?v=903oLALEDPk
+- https://tensornetwork.org/
+- https://www.youtube.com/watch?v=AmQNaYhhGss&t=1468s
+
+References:
+- [The density-matrix renormalization group in the age of matrix product states](https://arxiv.org/abs/1008.3477)
+- [Unsupervised Generative Modeling Using Matrix Product States](https://arxiv.org/abs/1709.01662)
+- [Equivalence of restricted Boltzmann machines and tensor network states](https://arxiv.org/abs/1701.04831)
+
  ## 3b) Belief Propagation
   - Solution of stat. mech. models on trees, building on the strategy on chains (continuation of part 1)
   - BP on loopy graphs
   - Examples: LDPC decoding or SAT or ising or ...
+
+Friendly references:
+- https://www.youtube.com/watch?v=1XSGqkZ54qg&list=PL8mMEmoXNBfaBEMiKdQnTvCLOVRniOrPb&index=36
+
+References:
+- [Understanding Belief Propagation and its Generalizations](https://www.merl.com/publications/TR2001-22)
+- Information, physics, and computation, M Mezard, A Montanari, Oxford University Press
