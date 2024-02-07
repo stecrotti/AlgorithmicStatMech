@@ -1,6 +1,6 @@
-# AlgorithmicStatMech
+# Algorithmic Statistical Mechanics
 
-Tentative programme:
+Material for a mini-course held at Physics Faculty, Universidad de La Habana in February 2024.
 
 ## 1) Dynamic programming
   [Problem sheet](1_dynamic_programming.pdf)
