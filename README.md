@@ -1,8 +1,8 @@
-# Algorithmic aspects of Statistical Mechanics
+# Algorithmic tools for Statistical Mechanics
 
 Material for a mini-course held at Physics Faculty, Universidad de La Habana in February 2024.
 
-## 1) Dynamic programming
+## 1) Exact solution of statistical mechanical models via Dynamic Programming
   [Problem sheet](1_dynamic_programming.pdf)
   - Exact solution of chain-factorized models (like 1D ising) via a recursive strategy
   - Exact solution of fully-connected ising or potts with uniform couplings and arbitraty external fields
