@@ -48,8 +48,7 @@ References:
 Reading material:
 - [Unsupervised Generative Modeling Using Matrix Product States](https://arxiv.org/abs/1709.01662)
 - [Supervised Learning with Quantum-Inspired Tensor Networks](https://arxiv.org/abs/1605.05775)
-- [Tropical Tensor Network for Ground States of Spin Glasses](https://arxiv.
-org/abs/2008.06888)
+- [Tropical Tensor Network for Ground States of Spin Glasses](https://arxiv.org/abs/2008.06888)
 - [Equivalence of restricted Boltzmann machines and tensor network states](https://arxiv.org/abs/1701.04831)
 
  ## 3b) Belief Propagation
