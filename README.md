@@ -1,4 +1,4 @@
-# Algorithmic Statistical Mechanics
+# Algorithmic aspects of Statistical Mechanics
 
 Material for a mini-course held at Physics Faculty, Universidad de La Habana in February 2024.
 
