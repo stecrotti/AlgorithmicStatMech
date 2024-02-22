@@ -9,7 +9,7 @@ Material for a mini-course held at Physics Faculty, Universidad de La Habana in 
   - Improvement on the point above by exploiting derivatives (-> automatic differentiation)
 
  ## 2) Automatic Differentiation (AD)
-
+[Notebook](2_automatic_differentiation.ipynb)
   - Introduction to the concept, a few motivating examples
   - Implementation via Dual Numbers
   - Dual numbers as a good example of Julia's type dispatch system
