@@ -30,6 +30,7 @@ References:
 Two options for the third session:
 
   ## 3a) Tensor Trains (aka Matrix Product States): a tool for function approximation
+  [Notes](3_tensor_trains.pdf)
   - Can one improve on mean-field ansatzes while keeping the computational advantages?
   - Introduction to tensor trains
   - Efficient computations on tensor trains (dynamic programming): partition function, marginals, sampling
