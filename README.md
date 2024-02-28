@@ -47,6 +47,7 @@ References:
 - [The density-matrix renormalization group in the age of matrix product states](https://arxiv.org/abs/1008.3477)
 
 Reading material:
+- [Exact solution of a 1D asymmetric exclusion model using a matrix formulation](https://iopscience.iop.org/article/10.1088/0305-4470/26/7/011/meta?casa_token=8KafQ-ezuCoAAAAA:4zRveoFgYO5GIi5xGYWzah7vhCRgvjZJYoIXCy2I7mC0tSB6HC-AONES9_nvUaELiWhmt8Edh5El6DtbMKzsOu8UmA)
 - [Unsupervised Generative Modeling Using Matrix Product States](https://arxiv.org/abs/1709.01662)
 - [Supervised Learning with Quantum-Inspired Tensor Networks](https://arxiv.org/abs/1605.05775)
 - [Tropical Tensor Network for Ground States of Spin Glasses](https://arxiv.org/abs/2008.06888)
