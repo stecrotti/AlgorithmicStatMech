@@ -44,14 +44,20 @@ Friendly references:
 - https://www.youtube.com/watch?v=AmQNaYhhGss&t=1468s
 
 References:
-- [The density-matrix renormalization group in the age of matrix product states](https://arxiv.org/abs/1008.3477)
+- [Schollwöck, U., 2011. The density-matrix renormalization group in the age of matrix product states. Annals of physics, 326(1), pp.96-192.](https://arxiv.org/abs/1008.3477)
 
 Reading material:
-- [Exact solution of a 1D asymmetric exclusion model using a matrix formulation](https://iopscience.iop.org/article/10.1088/0305-4470/26/7/011/meta?casa_token=8KafQ-ezuCoAAAAA:4zRveoFgYO5GIi5xGYWzah7vhCRgvjZJYoIXCy2I7mC0tSB6HC-AONES9_nvUaELiWhmt8Edh5El6DtbMKzsOu8UmA)
-- [Unsupervised Generative Modeling Using Matrix Product States](https://arxiv.org/abs/1709.01662)
-- [Supervised Learning with Quantum-Inspired Tensor Networks](https://arxiv.org/abs/1605.05775)
-- [Tropical Tensor Network for Ground States of Spin Glasses](https://arxiv.org/abs/2008.06888)
-- [Equivalence of restricted Boltzmann machines and tensor network states](https://arxiv.org/abs/1701.04831)
+- [Derrida, B., Evans, M.R., Hakim, V. and Pasquier, V., 1993. Exact solution of a 1D asymmetric
+exclusion model using a matrix formulation. Journal of Physics A: Mathematical and General,
+26(7), p.1493.](https://iopscience.iop.org/article/10.1088/0305-4470/26/7/011/meta?casa_token=8KafQ-ezuCoAAAAA:4zRveoFgYO5GIi5xGYWzah7vhCRgvjZJYoIXCy2I7mC0tSB6HC-AONES9_nvUaELiWhmt8Edh5El6DtbMKzsOu8UmA)
+- [Han, Z.Y., Wang, J., Fan, H., Wang, L. and Zhang, P., 2018. Unsupervised generative modeling using matrix product states. Physical Review X, 8(3), p.031012.](https://arxiv.org/abs/1709.01662)
+- [Stoudenmire, E. and Schwab, D.J., 2016. Supervised learning with tensor networks. Advances
+in neural information processing systems, 29.](https://arxiv.org/abs/1605.05775)
+- [Liu, J.G., Wang, L. and Zhang, P., 2021.
+Tropical tensor network for ground states of spin
+glasses. Physical Review Letters, 126(9), p.090506.](https://arxiv.org/abs/2008.06888)
+- [Chen, J., Cheng, S., Xie, H., Wang, L. and Xiang, T., 2018. Equivalence of restricted Boltzmann
+machines and tensor network states. Physical Review B, 97(8), p.085104.](https://arxiv.org/abs/1701.04831)
 
  ## 3b) Belief Propagation
   - Solution of stat. mech. models on trees, building on the strategy on chains (continuation of part 1)
